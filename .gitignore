@@ -1,0 +1,5 @@
+.idea
+venv
+.gitattributes
+__pycache__
+data.csv
